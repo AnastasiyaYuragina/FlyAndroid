@@ -38,10 +38,6 @@ public class MyActivity extends Activity {
 
     String lastBordeer = "";
 
-
-
-
-    
     /**
      * Called when the activity is first created.
      */
@@ -70,12 +66,6 @@ public class MyActivity extends Activity {
 
     }
 
-
-
-
-
-
-    
     protected void initializationOfBorders() {
 
         if (borderArray.isEmpty()) {
