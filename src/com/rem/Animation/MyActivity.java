@@ -13,7 +13,7 @@ import android.widget.*;
 import java.util.ArrayList;
 
 public class MyActivity extends Activity {
-
+//some comment 
     static  String AnimationTag = "AnimationTag";
 
     ImageView imageView;//property definition must be always on top, before all methods
