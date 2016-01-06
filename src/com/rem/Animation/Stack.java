@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * Created by Anastasiya on 30.12.2015.
  */
 public class Stack {
-
+//add comment
     private int size;
     private ArrayList<String> elements = new ArrayList<String>();
 
